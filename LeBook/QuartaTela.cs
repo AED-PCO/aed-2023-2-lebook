@@ -98,12 +98,12 @@ namespace LeBook
         {
             List<Pessoa> listaPessoas = new List<Pessoa>();
 
-            // Verifica se o arquivo existe antes de tentar carregar
+           
             if (File.Exists(Environment.CurrentDirectory + "\\DadosPessoas.xml"))
             {
                 XmlSerializer serial = new XmlSerializer(typeof(List<Pessoa>));
 
-                // Carrega a lista do arquivo
+                
                 using (FileStream fs = new FileStream(Environment.CurrentDirectory + "\\DadosPessoas.xml", FileMode.Open, FileAccess.Read))
                 {
                     listaPessoas = serial.Deserialize(fs) as List<Pessoa>;
