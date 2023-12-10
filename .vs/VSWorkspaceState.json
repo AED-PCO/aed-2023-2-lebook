@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\LeBook",
-    "\\LeBook\\obj"
+    "\\LeBook\\bin",
+    "\\LeBook\\bin\\Debug",
+    "\\LeBook\\obj",
+    "\\LeBook\\obj\\Release"
   ],
-  "SelectedNode": "\\LeBook\\INICIO.cs",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\LeBook\\QuartaTela.cs",
+  "PreviewInSolutionExplorer": true
 }
