@@ -59,12 +59,6 @@
     <Compile Include="INICIO.Designer.cs">
       <DependentUpon>INICIO.cs</DependentUpon>
     </Compile>
-    <Compile Include="Devolução.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Devolução.Designer.cs">
-      <DependentUpon>Devolução.cs</DependentUpon>
-    </Compile>
     <Compile Include="Romance.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,9 +96,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="INICIO.resx">
       <DependentUpon>INICIO.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Devolução.resx">
-      <DependentUpon>Devolução.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Romance.resx">
       <DependentUpon>Romance.cs</DependentUpon>

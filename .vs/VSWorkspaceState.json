@@ -3,9 +3,8 @@
     "",
     "\\LeBook",
     "\\LeBook\\bin",
-    "\\LeBook\\bin\\Debug",
-    "\\LeBook\\obj\\Release"
+    "\\LeBook\\bin\\Debug"
   ],
-  "SelectedNode": "\\LeBook\\QuartaTela.cs",
+  "SelectedNode": "\\LeBook\\Class1.cs",
   "PreviewInSolutionExplorer": true
 }

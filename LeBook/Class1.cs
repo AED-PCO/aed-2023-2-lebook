@@ -22,4 +22,15 @@ namespace LeBook
 
         public string cep { get; set; }
     }
+
+
+    public class Devolucao
+    {
+
+        public string Titulo_Livro { get; set; }      
+        public DateTime DataReserva { get; set; }
+
+        public DateTime DataDevolucao { get; set; }
+    }
 }
+

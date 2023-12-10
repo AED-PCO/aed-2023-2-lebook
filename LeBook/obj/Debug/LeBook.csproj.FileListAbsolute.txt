@@ -21,7 +21,6 @@ C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\LeBook.pdb
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.csproj.AssemblyReference.cache
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Form1.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.INICIO.resources
-C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Devolução.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Romance.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Properties.Resources.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.QuartaTela.resources

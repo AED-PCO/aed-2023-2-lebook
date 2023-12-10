@@ -85,13 +85,6 @@ namespace LeBook
             segundaTela.Show();
         }
 
-        private void dEVOLUÇÃOToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-            Devolução Devolução = new Devolução();
-
-            Devolução.Show();
-        }
 
         private void aJUDAToolStripMenuItem_Click(object sender, EventArgs e)
         {
