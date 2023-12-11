@@ -90,7 +90,7 @@ namespace LeBook
         private void lOGINToolStripMenuItem_Click(object sender, EventArgs e)
         {
             // Criar uma instância do novo formulário
-            SegundaTela segundaTela = new SegundaTela();
+            Tela segundaTela = new SegundaTela();
 
             // Exibir o novo formulário
             segundaTela.Show();
