@@ -46,14 +46,78 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Class1.cs" />
+    <Compile Include="Auto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Auto.Designer.cs">
+      <DependentUpon>Auto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Terror.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Terror.Designer.cs">
+      <DependentUpon>Terror.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO.Designer.cs">
+      <DependentUpon>INICIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Devolução.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Devolução.Designer.cs">
+      <DependentUpon>Devolução.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Romance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Romance.Designer.cs">
+      <DependentUpon>Romance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuintaTela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuintaTela.Designer.cs">
+      <DependentUpon>QuintaTela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuartaTela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuartaTela.Designer.cs">
+      <DependentUpon>QuartaTela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Livros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Livros.Designer.cs">
+      <DependentUpon>Livros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SegundaTela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SegundaTela.Designer.cs">
+      <DependentUpon>SegundaTela.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Auto.resx">
+      <DependentUpon>Auto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Terror.resx">
+      <DependentUpon>Terror.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO.resx">
+      <DependentUpon>INICIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Devolução.resx">
+      <DependentUpon>Devolução.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Romance.resx">
+      <DependentUpon>Romance.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,7 +126,20 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="QuartaTela.resx">
+      <DependentUpon>QuartaTela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuintaTela.resx">
+      <DependentUpon>QuintaTela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SegundaTela.resx">
+      <DependentUpon>SegundaTela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Livros.resx">
+      <DependentUpon>Livros.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -75,6 +152,111 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pilha-de-quatro-livros-velhos-15440680.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Domquixote.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PequenoPrincipe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ostresmosqueteiros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\harrypottereapedrafilosofal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\harry-potter-e-o-calice-de-fogo-jk-rowling.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\olivrodosespiritos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frasesleitura.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diário de uma paixão.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PS eu te amo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simplesmente Acontece.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\me chame pelo seu nome.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Um dia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a culpa e das estrelas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outlander.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eleanor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seleção.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\As-Sete-Leis-Espirituais-do-Sucesso.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A-Coragem-de-Nao-Agradar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A-Coragem-de-ser-Imperfeito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ansiedade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fodase.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\O poder do Hábito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\O-Milagre-da-Manha.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\O-Poder-do-Agora.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\As-Cinco-Linguages-do-Amor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror9.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
