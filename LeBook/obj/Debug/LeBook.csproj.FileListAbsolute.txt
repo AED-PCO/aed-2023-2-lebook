@@ -19,9 +19,7 @@ C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\LeBook.exe.c
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\LeBook.exe
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\LeBook.pdb
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.csproj.AssemblyReference.cache
-C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Form1.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.INICIO.resources
-C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Devolução.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Romance.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Properties.Resources.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.QuartaTela.resources
@@ -51,3 +49,44 @@ C:\Users\ana.marcal\Downloads\zip\aed-2023-2-lebook {Não usar}\LeBook\obj\Debug
 C:\Users\ana.marcal\Downloads\zip\aed-2023-2-lebook {Não usar}\LeBook\obj\Debug\LeBook.csproj.CoreCompileInputs.cache
 C:\Users\ana.marcal\Downloads\zip\aed-2023-2-lebook {Não usar}\LeBook\obj\Debug\LeBook.exe
 C:\Users\ana.marcal\Downloads\zip\aed-2023-2-lebook {Não usar}\LeBook\obj\Debug\LeBook.pdb
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\LeBook.exe.config
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\LeBook.exe
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\LeBook.pdb
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.csproj.AssemblyReference.cache
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.Auto.resources
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.Terror.resources
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.INICIO.resources
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.Romance.resources
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.Properties.Resources.resources
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.QuartaTela.resources
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.QuintaTela.resources
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.SegundaTela.resources
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.Livros.resources
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.csproj.GenerateResource.cache
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.csproj.CoreCompileInputs.cache
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.exe
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.pdb
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\System.Buffers.dll
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\System.Memory.dll
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\System.Buffers.xml
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\System.Memory.xml
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\obj\Debug\LeBook.csproj.CopyComplete
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Buffers.dll
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Memory.dll
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Buffers.xml
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Memory.xml
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Auto.resources
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Terror.resources
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.csproj.CopyComplete
