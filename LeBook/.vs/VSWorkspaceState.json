@@ -1,5 +1,6 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
     "\\bin",
     "\\bin\\Debug",
@@ -8,5 +9,9 @@
     "\\Resources"
   ],
   "SelectedNode": "\\QuintaTela.cs",
+=======
+    ""
+  ],
+>>>>>>> c11bcabc61fee38aba9bdffd0755fde0cdfb9733
   "PreviewInSolutionExplorer": false
 }

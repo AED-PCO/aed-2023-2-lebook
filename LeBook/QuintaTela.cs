@@ -1,21 +1,35 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
 using System.Xml.Serialization;
+=======
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+>>>>>>> c11bcabc61fee38aba9bdffd0755fde0cdfb9733
 
 namespace LeBook
 {
     public partial class QuintaTela : Form
     {
+<<<<<<< HEAD
         public List<Devolucao> listaDevolucao = new List<Devolucao>();
 
+=======
+>>>>>>> c11bcabc61fee38aba9bdffd0755fde0cdfb9733
         public QuintaTela()
         {
             InitializeComponent();
         }
 
+<<<<<<< HEAD
         public void label1_Click(object sender, EventArgs e)
         {
             // Código do evento label1_Click
@@ -116,3 +130,11 @@ namespace LeBook
 
 
 
+=======
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
+>>>>>>> c11bcabc61fee38aba9bdffd0755fde0cdfb9733

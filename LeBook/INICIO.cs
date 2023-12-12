@@ -85,6 +85,17 @@ namespace LeBook
             segundaTela.Show();
         }
 
+<<<<<<< HEAD
+=======
+        private void dEVOLUÇÃOToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            Devolução Devolução = new Devolução();
+
+            Devolução.Show();
+        }
+
+>>>>>>> c11bcabc61fee38aba9bdffd0755fde0cdfb9733
         private void aJUDAToolStripMenuItem_Click(object sender, EventArgs e)
         {
             string url = "https://answers.microsoft.com/pt-br/msoffice/forum/all/suporte-para-microsoft-forms/0eb71c22-efd8-4479-8e02-fffd6616f090";

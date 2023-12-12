@@ -19,7 +19,13 @@ C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\LeBook.exe.c
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\LeBook.exe
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\LeBook.pdb
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.csproj.AssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.INICIO.resources
+=======
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Form1.resources
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.INICIO.resources
+C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Devolução.resources
+>>>>>>> c11bcabc61fee38aba9bdffd0755fde0cdfb9733
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Romance.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Properties.Resources.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.QuartaTela.resources
@@ -49,6 +55,7 @@ C:\Users\ana.marcal\Downloads\zip\aed-2023-2-lebook {Não usar}\LeBook\obj\Debug
 C:\Users\ana.marcal\Downloads\zip\aed-2023-2-lebook {Não usar}\LeBook\obj\Debug\LeBook.csproj.CoreCompileInputs.cache
 C:\Users\ana.marcal\Downloads\zip\aed-2023-2-lebook {Não usar}\LeBook\obj\Debug\LeBook.exe
 C:\Users\ana.marcal\Downloads\zip\aed-2023-2-lebook {Não usar}\LeBook\obj\Debug\LeBook.pdb
+<<<<<<< HEAD
 C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\LeBook.exe.config
 C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\LeBook.exe
 C:\Users\ana.marcal\Downloads\aed-2023-2-lebook-main\aed-2023-2-lebook-main\LeBook\bin\Debug\LeBook.pdb
@@ -90,3 +97,5 @@ C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\System.Runti
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Auto.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Terror.resources
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.csproj.CopyComplete
+=======
+>>>>>>> c11bcabc61fee38aba9bdffd0755fde0cdfb9733
