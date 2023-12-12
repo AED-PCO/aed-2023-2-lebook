@@ -1,8 +1,4 @@
-﻿using System;
-using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
-
-namespace LeBook
+﻿namespace LeBook
 {
     partial class QuartaTela
     {
@@ -198,56 +194,7 @@ namespace LeBook
         }
 
         #endregion
-        public partial class SegundaTela : Form
-        {
-            private string _emailCadastrado;
-            private string _senhaCadastrada;
 
-<<<<<<< HEAD
-            public string EmailCadastrado
-            {
-                get { return _emailCadastrado; }
-                set { _emailCadastrado = value; }
-            }
-
-            public string SenhaCadastrada
-            {
-                get { return _senhaCadastrada; }
-                set { _senhaCadastrada = value; }
-            }
-
-            private System.Windows.Forms.TextBox textBox1;
-            private System.Windows.Forms.TextBox textBox2;
-            private System.Windows.Forms.Label Nome;
-            private System.Windows.Forms.Label Email;
-            private System.Windows.Forms.Label CPF;
-            private System.Windows.Forms.Label Senha;
-            private System.Windows.Forms.Label Telefone;
-            private System.Windows.Forms.MaskedTextBox maskedTextBox1;
-            private System.Windows.Forms.MaskedTextBox maskedTextBox2;
-            private System.Windows.Forms.MaskedTextBox maskedTextBox3;
-            private System.Windows.Forms.Label CEP;
-            private System.Windows.Forms.MaskedTextBox maskedTextBox4;
-            private System.Windows.Forms.Label Cadastro;
-        }
-
-        private void btnLogin_Click(object sender, EventArgs e)
-        {
-            string emailDigitado = textBox2.Text;
-            string senhaDigitada = maskedTextBox1.Text;
-
-            // Verifica se o email e a senha correspondem aos valores cadastrados
-            if (emailDigitado == _emailCadastrado && senhaDigitada == _senhaCadastrada)
-            {
-                MessageBox.Show("Login bem-sucedido!");
-                // Faça algo após o login bem-sucedido
-            }
-            else
-            {
-                MessageBox.Show("Email ou senha incorretos. Tente novamente.");
-            }
-        }
-=======
         private System.Windows.Forms.TextBox NomePessoa;
         private System.Windows.Forms.TextBox EmailPessoa;
         private System.Windows.Forms.Label Nome;
@@ -260,6 +207,5 @@ namespace LeBook
         private System.Windows.Forms.MaskedTextBox CepPessoa;
         private System.Windows.Forms.Label Cadastro;
         private System.Windows.Forms.Button SalvarCadastro;
->>>>>>> fb1bfff00b5469f9d99af6d7b7bf1f887622241e
     }
 }

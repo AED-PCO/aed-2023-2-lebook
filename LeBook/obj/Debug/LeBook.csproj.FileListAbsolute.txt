@@ -15,25 +15,6 @@ C:\Users\sabri\Source\Repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Devoluçã
 C:\Users\sabri\Source\Repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.INICIO.resources
 C:\Users\sabri\Source\Repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Romance.resources
 C:\Users\sabri\Source\Repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.Form1.resources
-<<<<<<< HEAD
-C:\Users\anage\source\repos\lebook\LeBook\bin\Debug\LeBook.exe.config
-C:\Users\anage\source\repos\lebook\LeBook\bin\Debug\LeBook.exe
-C:\Users\anage\source\repos\lebook\LeBook\bin\Debug\LeBook.pdb
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.csproj.AssemblyReference.cache
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.Form1.resources
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.INICIO.resources
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.Devolução.resources
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.Romance.resources
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.Properties.Resources.resources
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.QuartaTela.resources
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.QuintaTela.resources
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.SegundaTela.resources
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.Livros.resources
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.csproj.GenerateResource.cache
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.csproj.CoreCompileInputs.cache
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.exe
-C:\Users\anage\source\repos\lebook\LeBook\obj\Debug\LeBook.pdb
-=======
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\LeBook.exe.config
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\LeBook.exe
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\bin\Debug\LeBook.pdb
@@ -50,4 +31,3 @@ C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.cspro
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.csproj.CoreCompileInputs.cache
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.exe
 C:\Users\ana.marcal\source\repos\aed-2023-2-lebook\LeBook\obj\Debug\LeBook.pdb
->>>>>>> fb1bfff00b5469f9d99af6d7b7bf1f887622241e

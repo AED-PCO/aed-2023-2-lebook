@@ -48,7 +48,6 @@
             // menuStrip1
             // 
             this.menuStrip1.Dock = System.Windows.Forms.DockStyle.None;
-            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.lOGINToolStripMenuItem,
             this.cADASTROToolStripMenuItem,
@@ -56,9 +55,9 @@
             this.dEVOLUÇÃOToolStripMenuItem,
             this.aJUDAToolStripMenuItem,
             this.sAIRToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 38);
+            this.menuStrip1.Location = new System.Drawing.Point(0, 31);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(478, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(385, 24);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
@@ -66,72 +65,63 @@
             // lOGINToolStripMenuItem
             // 
             this.lOGINToolStripMenuItem.Name = "lOGINToolStripMenuItem";
-            this.lOGINToolStripMenuItem.Size = new System.Drawing.Size(65, 24);
+            this.lOGINToolStripMenuItem.Size = new System.Drawing.Size(54, 20);
             this.lOGINToolStripMenuItem.Text = "LOGIN";
             this.lOGINToolStripMenuItem.Click += new System.EventHandler(this.lOGINToolStripMenuItem_Click);
             // 
             // cADASTROToolStripMenuItem
             // 
             this.cADASTROToolStripMenuItem.Name = "cADASTROToolStripMenuItem";
-            this.cADASTROToolStripMenuItem.Size = new System.Drawing.Size(99, 24);
+            this.cADASTROToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
             this.cADASTROToolStripMenuItem.Text = "CADASTRO";
             this.cADASTROToolStripMenuItem.Click += new System.EventHandler(this.cADASTROToolStripMenuItem_Click);
             // 
             // lIVROSToolStripMenuItem
             // 
             this.lIVROSToolStripMenuItem.Name = "lIVROSToolStripMenuItem";
-            this.lIVROSToolStripMenuItem.Size = new System.Drawing.Size(71, 24);
+            this.lIVROSToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
             this.lIVROSToolStripMenuItem.Text = "LIVROS";
             this.lIVROSToolStripMenuItem.Click += new System.EventHandler(this.lIVROSToolStripMenuItem_Click);
             // 
-            // dEVOLUÇÃOToolStripMenuItem
-            // 
-            this.dEVOLUÇÃOToolStripMenuItem.Name = "dEVOLUÇÃOToolStripMenuItem";
-            this.dEVOLUÇÃOToolStripMenuItem.Size = new System.Drawing.Size(109, 24);
-            this.dEVOLUÇÃOToolStripMenuItem.Text = "DEVOLUÇÃO";
-            this.dEVOLUÇÃOToolStripMenuItem.Click += new System.EventHandler(this.dEVOLUÇÃOToolStripMenuItem_Click);
             // 
             // aJUDAToolStripMenuItem
             // 
             this.aJUDAToolStripMenuItem.Name = "aJUDAToolStripMenuItem";
-            this.aJUDAToolStripMenuItem.Size = new System.Drawing.Size(70, 24);
+            this.aJUDAToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
             this.aJUDAToolStripMenuItem.Text = "AJUDA";
             this.aJUDAToolStripMenuItem.Click += new System.EventHandler(this.aJUDAToolStripMenuItem_Click);
             // 
             // sAIRToolStripMenuItem
             // 
             this.sAIRToolStripMenuItem.Name = "sAIRToolStripMenuItem";
-            this.sAIRToolStripMenuItem.Size = new System.Drawing.Size(54, 24);
+            this.sAIRToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
             this.sAIRToolStripMenuItem.Text = "SAIR";
             this.sAIRToolStripMenuItem.Click += new System.EventHandler(this.sAIRToolStripMenuItem_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(121, 247);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(91, 201);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(227, 16);
+            this.label1.Size = new System.Drawing.Size(181, 13);
             this.label1.TabIndex = 5;
             this.label1.Text = "Acervo online da biblioteca LêBook§";
             // 
             // AcervoLêBook
             // 
             this.AcervoLêBook.AutoSize = true;
-            this.AcervoLêBook.Location = new System.Drawing.Point(187, 100);
-            this.AcervoLêBook.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.AcervoLêBook.Location = new System.Drawing.Point(140, 81);
             this.AcervoLêBook.Name = "AcervoLêBook";
-            this.AcervoLêBook.Size = new System.Drawing.Size(100, 16);
+            this.AcervoLêBook.Size = new System.Drawing.Size(81, 13);
             this.AcervoLêBook.TabIndex = 6;
             this.AcervoLêBook.Text = "Acervo LêBook";
             // 
             // pictureBox3
             // 
             this.pictureBox3.Image = global::LeBook.Properties.Resources.frasesleitura;
-            this.pictureBox3.Location = new System.Drawing.Point(16, 300);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox3.Location = new System.Drawing.Point(12, 244);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(477, 172);
+            this.pictureBox3.Size = new System.Drawing.Size(358, 140);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 8;
             this.pictureBox3.TabStop = false;
@@ -139,27 +129,25 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::LeBook.Properties.Resources.pilha_de_quatro_livros_velhos_15440680;
-            this.pictureBox1.Location = new System.Drawing.Point(125, 135);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Location = new System.Drawing.Point(94, 110);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(248, 97);
+            this.pictureBox1.Size = new System.Drawing.Size(186, 79);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
-            // INICIO
+            // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(665, 527);
+            this.ClientSize = new System.Drawing.Size(387, 428);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.AcervoLêBook);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.menuStrip1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.Name = "INICIO";
+            this.Name = "Form1";
             this.Text = " ";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
