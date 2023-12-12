@@ -118,35 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="me chame pelo seu nome" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\me chame pelo seu nome.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="seleção" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\seleção.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="PequenoPrincipe" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PequenoPrincipe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="harrypottereapedrafilosofal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\harrypottereapedrafilosofal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="olivrodosespiritos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\olivrodosespiritos.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="As-Sete-Leis-Espirituais-do-Sucesso" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\As-Sete-Leis-Espirituais-do-Sucesso.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="harry-potter-e-o-calice-de-fogo-jk-rowling" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\harry-potter-e-o-calice-de-fogo-jk-rowling.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="terror5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terror5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ostresmosqueteiros" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ostresmosqueteiros.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="A-Coragem-de-Nao-Agradar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\A-Coragem-de-Nao-Agradar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="terror 4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terror 4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pilha-de-quatro-livros-velhos-15440680" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pilha-de-quatro-livros-velhos-15440680.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="frasesleitura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frasesleitura.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PequenoPrincipe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PequenoPrincipe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="fodase" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fodase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -154,46 +139,88 @@
   <data name="eleanor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\eleanor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Simplesmente Acontece" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Simplesmente Acontece.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Um dia" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Um dia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ansiedade" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ansiedade.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="O-Poder-do-Agora" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\O-Poder-do-Agora.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="A-Coragem-de-ser-Imperfeito" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\A-Coragem-de-ser-Imperfeito.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="PS eu te amo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PS eu te amo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="a culpa e das estrelas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a culpa e das estrelas.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="frasesleitura" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\frasesleitura.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="outlander" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\outlander.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Domquixote" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Domquixote.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="harry-potter-e-o-calice-de-fogo-jk-rowling" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\harry-potter-e-o-calice-de-fogo-jk-rowling.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="O-Milagre-da-Manha" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\O-Milagre-da-Manha.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="terror1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terror1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="As-Cinco-Linguages-do-Amor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\As-Cinco-Linguages-do-Amor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Diário de uma paixão" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Diário de uma paixão.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ansiedade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ansiedade.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Um dia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Um dia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A-Coragem-de-ser-Imperfeito" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A-Coragem-de-ser-Imperfeito.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Domquixote" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Domquixote.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terror6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terror6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="As-Sete-Leis-Espirituais-do-Sucesso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\As-Sete-Leis-Espirituais-do-Sucesso.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a culpa e das estrelas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a culpa e das estrelas.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Simplesmente Acontece" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Simplesmente Acontece.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="outlander" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\outlander.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terror7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terror7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="olivrodosespiritos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\olivrodosespiritos.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="me chame pelo seu nome" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\me chame pelo seu nome.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="O-Poder-do-Agora" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\O-Poder-do-Agora.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terror2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terror2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terror 8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terror 8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PS eu te amo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PS eu te amo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terror 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terror 3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="harrypottereapedrafilosofal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\harrypottereapedrafilosofal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A-Coragem-de-Nao-Agradar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A-Coragem-de-Nao-Agradar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pilha-de-quatro-livros-velhos-15440680" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pilha-de-quatro-livros-velhos-15440680.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="O poder do Hábito" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\O poder do Hábito.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="As-Cinco-Linguages-do-Amor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\As-Cinco-Linguages-do-Amor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="seleção" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\seleção.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terror9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terror9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

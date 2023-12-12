@@ -84,10 +84,19 @@ namespace LeBook
         private void autoAjudaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             // Criar uma instância do novo formulário
-           Form1 Form1 = new Form1();
+           Auto Auto = new Auto();
 
             // Exibir o novo formulário
-            Form1.Show();
+           Auto.Show();
+        }
+
+        private void terrorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // Criar uma instância do novo formulário
+            Terror Terror = new Terror();
+
+            // Exibir o novo formulário
+            Terror.Show();
         }
     }
 }

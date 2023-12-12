@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LeBook",
-    "\\LeBook\\bin",
-    "\\LeBook\\bin\\Debug"
+    "\\LeBook"
   ],
-  "SelectedNode": "\\LeBook\\QuartaTela.Designer.cs",
-  "PreviewInSolutionExplorer": true
+  "PreviewInSolutionExplorer": false
 }

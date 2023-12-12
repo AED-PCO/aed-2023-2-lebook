@@ -40,4 +40,12 @@
     <senha>02020</senha>
     <cep>00000-000</cep>
   </Pessoa>
+  <Pessoa>
+    <Id>6</Id>
+    <Nome>Sabrina</Nome>
+    <email>sabrina.luiza2@gmail.com</email>
+    <telefone>(31 ) 99385-4284</telefone>
+    <senha>12345</senha>
+    <cep>32185-650</cep>
+  </Pessoa>
 </ArrayOfPessoa>

@@ -47,17 +47,29 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Auto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Auto.Designer.cs">
+      <DependentUpon>Auto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Terror.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Terror.Designer.cs">
+      <DependentUpon>Terror.cs</DependentUpon>
     </Compile>
     <Compile Include="INICIO.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="INICIO.Designer.cs">
       <DependentUpon>INICIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Devolução.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Devolução.Designer.cs">
+      <DependentUpon>Devolução.cs</DependentUpon>
     </Compile>
     <Compile Include="Romance.cs">
       <SubType>Form</SubType>
@@ -91,11 +103,17 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Auto.resx">
+      <DependentUpon>Auto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Terror.resx">
+      <DependentUpon>Terror.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="INICIO.resx">
       <DependentUpon>INICIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Devolução.resx">
+      <DependentUpon>Devolução.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Romance.resx">
       <DependentUpon>Romance.cs</DependentUpon>
@@ -212,6 +230,33 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\As-Cinco-Linguages-do-Amor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terror9.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

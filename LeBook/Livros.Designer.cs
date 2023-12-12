@@ -86,6 +86,7 @@
             this.terrorToolStripMenuItem.Name = "terrorToolStripMenuItem";
             this.terrorToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
             this.terrorToolStripMenuItem.Text = "Terror";
+            this.terrorToolStripMenuItem.Click += new System.EventHandler(this.terrorToolStripMenuItem_Click);
             // 
             // ficçãoToolStripMenuItem
             // 
