@@ -98,5 +98,12 @@ namespace LeBook
             // Exibir o novo formulário
             Terror.Show();
         }
+
+        private void ficçãoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ficção Ficção = new Ficção();
+
+            Ficção.Show();
+        }
     }
 }

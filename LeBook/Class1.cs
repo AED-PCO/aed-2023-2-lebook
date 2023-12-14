@@ -21,7 +21,6 @@ namespace LeBook
         public string senha { get; set; }
 
         public string cep { get; set; }
-<<<<<<< HEAD
 
         public class Devolucao
         {
@@ -31,7 +30,5 @@ namespace LeBook
 
             public DateTime DataDevolucao { get; set; }
         }
-=======
->>>>>>> c11bcabc61fee38aba9bdffd0755fde0cdfb9733
     }
 }

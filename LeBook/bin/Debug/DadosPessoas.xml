@@ -48,4 +48,20 @@
     <senha>12345</senha>
     <cep>32185-650</cep>
   </Pessoa>
+  <Pessoa>
+    <Id>7</Id>
+    <Nome>Teste</Nome>
+    <email>teste@gmail.com</email>
+    <telefone>(555) 55555-5555</telefone>
+    <senha>55555</senha>
+    <cep>55555-555</cep>
+  </Pessoa>
+  <Pessoa>
+    <Id>8</Id>
+    <Nome>AnasSabrina</Nome>
+    <email>anaSabrina@hotmail</email>
+    <telefone>(111) 11111-1111</telefone>
+    <senha>11111</senha>
+    <cep>11111-111</cep>
+  </Pessoa>
 </ArrayOfPessoa>

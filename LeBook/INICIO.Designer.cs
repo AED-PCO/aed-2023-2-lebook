@@ -83,15 +83,6 @@
             this.lIVROSToolStripMenuItem.Text = "LIVROS";
             this.lIVROSToolStripMenuItem.Click += new System.EventHandler(this.lIVROSToolStripMenuItem_Click);
             // 
-<<<<<<< HEAD
-=======
-            // dEVOLUÇÃOToolStripMenuItem
-            // 
-            this.dEVOLUÇÃOToolStripMenuItem.Name = "dEVOLUÇÃOToolStripMenuItem";
-            this.dEVOLUÇÃOToolStripMenuItem.Size = new System.Drawing.Size(88, 20);
-            this.dEVOLUÇÃOToolStripMenuItem.Text = "DEVOLUÇÃO";
-            this.dEVOLUÇÃOToolStripMenuItem.Click += new System.EventHandler(this.dEVOLUÇÃOToolStripMenuItem_Click);
->>>>>>> c11bcabc61fee38aba9bdffd0755fde0cdfb9733
             // 
             // aJUDAToolStripMenuItem
             // 
